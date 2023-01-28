@@ -1,2 +1,2 @@
 # cmd_postman
-command line version of postman
+A command interface for submitting http requests.
